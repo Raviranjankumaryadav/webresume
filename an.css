@@ -1,0 +1,523 @@
+*{
+	color:white;
+
+}
+
+
+
+
+body{
+	width:100%;
+	height:auto;
+	background:#f53d56;
+	font-family:serif
+}
+.one{
+	width:100%;
+	height:250px;
+	background: white;
+	box-shadow: 0 25px 50px -22px rgba(0, 0, 0, 0.25);
+	margin-top:1%;
+}
+h1{
+	text-align: center;
+	color:#ed6bac;
+	font:bold;
+	animation:ravi 5s;
+	font-family:serif;
+
+}
+.left{
+	width:25%;
+	height:250px;
+	float:left;
+	
+}
+.right{
+	width:70%;
+	height:250px;
+	float:right;
+
+}
+.rounded-circle{
+	width:200px;
+	height:200px;
+	margin-top:10%;
+	margin-left:15%;
+	border:4px solid blue;
+}
+h2{
+	font-family:serif;
+	color:#e68510;
+	font-size:14px;
+	margin-top:40px;
+	margin-right:10px;
+	font:bold;
+}
+.fa-quote-left{
+	font-size:26px;
+
+	color:blue;
+}
+.fa-quote-right{
+	font-size:26px;
+    color:blue;
+}
+.fa-camera-retro{
+	font-size:50px;
+	color:blue;
+}
+.two{
+	width:100%;
+	height:400px;
+	background:#;
+	margin-top:1%;}
+	.pink{
+		width:25%;
+		height:300px;
+		background:white;
+	box-shadow: 0  50px -22px rgba(0, 0, 0, 0.25);
+	margin:4%;
+
+	}
+	.fa-school{
+font-size:60px;
+color:green;
+margin-top:4%;
+
+	}
+	
+	.fa-university{
+font-size:60px;
+color:blue;
+margin-top:4%;
+	}
+}
+a:hover{
+	text-decoration:none;
+	background:red;
+	list-style:none;
+}
+ul,li{
+	list-style:none;
+	text-decoration:none;
+	text-align:center;
+	font:bold;
+	border-top:1px solid white;
+	border-bottom:2px solid #ddd;
+	box-shadow: 0  50px -22px rgba(0, 0, 0, 0.25);
+	background:
+}
+li{
+	list-style:none;
+}
+h4{
+	font-size:18px;
+	color:blue;
+	font-family:serif;
+}
+li:hover{
+	color:red;
+}
+.card{
+	margin-top:1%;
+	font-family:serif;
+}
+.sk{
+	width:100%;
+	height:auto;
+	background:white;
+	box-shadow: 0  50px -22px rgba(0, 0, 0, 0.25);
+	border:none;
+
+}
+*{
+	list-style:none;
+	font-family:sans-serif;;
+	padding:0px;
+	color:blue;
+	font-size:14px;
+}
+.skill{
+	width:60%;
+	margin:0px auto;
+	color:white;
+	margin-bottom:1%;
+}
+.skill li{
+margin:0px 0px;
+}
+.bar{
+	display:block;
+	height:12px;
+	overflow: hidden;
+    box-shadow: 2px 2px 3px solid blue;
+	
+
+}
+
+.bar span{
+	float:left;
+    height:12px;
+	background:green;
+}
+.html{
+	width:90%;
+	animation:html 4s;
+}
+.css{
+	width:80%;
+	animation:css 4s;
+}
+.java{
+	width:60%;
+	animation:java 4s;
+}
+.boot{
+	width:70%;
+	animation:boot 4s;
+}
+.c{
+	width:80%;
+	animation:c 4s;
+}
+.py{
+	width:70%;
+	animation:py 4s;
+}
+.php{
+	width:70%;
+	animation:php 4s;
+}
+.my{
+	width:70%;
+	animation:my 4s;
+}
+.db{
+	width:80%;
+	animation:db 4s;
+}
+.jq{
+	width:60%;
+	animation:jq 4s;
+}
+.jav{
+	width:60%;
+	animation:jq 4s;
+}
+h3{
+	font-size:36px;
+	text-align:center;
+}
+
+
+
+
+
+
+
+h1{
+font:bold;
+font-family:serif;
+color:blue;
+font-size:22px;
+font-style:normal;
+}
+.fa-github{
+color:black;
+font-size:22px;
+margin:6px;
+float:right;
+margin-left:6px;
+}
+.fa-hackerrank{
+	color:green;
+	font-size:25px;
+	margin:6px;
+	float:right;
+	margin-left:6px;
+}
+.fa-map-marker-alt{
+	font-size:25px;
+	color:gold;
+	margin:6px;
+	float:right;
+	margin-left:6px;
+
+
+}
+.fa-linkedin{
+	font-size:25px;
+	color:blue;
+	margin:6px;
+	float:right;
+	margin-left:6px;
+}
+.fa-facebook{
+font-size:25px;
+color:blue;
+margin:6px;
+float:right;
+margin-left:6px;
+}
+p{
+	color:blue;
+	font-size:14px;
+	font-family:serif;
+
+}
+p:hover{
+	color:green;
+	font-size:14px;
+}
+.lang{
+	width:100%;
+	height:300px;
+	background:#2e072d;
+	box-shadow: 0  50px -22px rgba(0, 0, 0, 0.25);
+
+}
+.checked{
+	color:red;
+	font-size:20px;
+}
+.piche{
+width:40%;
+margin-left:4%;
+height:300px;
+float:left;
+margin-top:2%;
+	margin-bottom:1%;
+}
+.aage{
+	width:50%;
+	height:300px;
+	float:right;margin-top:1%;
+	margin-bottom:1%;
+	font-size:18px;
+	color:red;
+
+
+}
+a{
+	margin:0px;
+}
+.fa-file-pdf{
+	color:red;
+	font-size:24px;
+	
+}
+.text{
+	text-align:center;
+	color:white;
+	font-size:18px;
+	margin: 0px;
+	padding:0px;
+	background:#2e072d;
+	width:100%;
+	height: auto;
+}
+.mapp{
+	width:100%;
+	height:300px;
+	
+}
+p{
+	text-align:center;
+}
+h8{
+	text-align:center;
+}
+
+
+}
+@keyframes html{
+0%{
+	width:0%;
+}
+100%{
+	width:90%;
+}
+}
+@keyframes css{
+0%{
+	width:0%;
+}
+100%{
+	width:80%;
+}}
+}
+@keyframes c{
+0%{
+	width:0%;
+}
+100%{
+	width:80%;
+}}
+@keyframes java{
+0%{
+	width:0%;
+}
+100%{
+	width:80%;
+}}
+@keyframes boot{
+0%{
+	width:0%;
+}
+100%{
+	width:80%;
+}}
+@keyframes jav{
+0%{
+	width:0%;
+}
+100%{
+	width:80%;
+}}
+@keyframes py{
+0%{
+	width:0%;
+}
+100%{
+	width:70%;
+}}
+@keyframes php{
+0%{
+	width:0%;
+}
+100%{
+	width:80%;
+}}
+@keyframes my{
+0%{
+	width:0%;
+}
+100%{
+	width:80%;
+}}
+@keyframes db{
+0%{
+	width:0%;
+}
+100%{
+	width:80%;
+}}
+@keyframes jq{
+0%{
+	width:0%;
+}
+100%{
+	width:80%;
+}}
+
+@media only screen and (max-width: 600px) {
+  .rounded-circle{
+  	width:110px;
+  	height:120px;
+
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .right{
+  	margin-right:0px;
+
+  	}
+  	.left{
+	width:30%;
+	height:250px;
+	float:left;
+	
+}
+.right{
+	width:60%;
+	height:280px;
+	
+	float:right;
+	text-align:justify;
+
+}
+.one{
+	width:100%;
+	height:280px;
+	background: white;
+	box-shadow: 0 25px 50px -22px rgba(0, 0, 0, 0.25);
+	margin-top:1%;
+}
+h2{
+	font-family:serif;
+	color:#e68510;
+	font-size:16px;
+	margin-top:40px;
+	margin-right:10px;
+	
+}
+.two{
+	width:100%;
+	height:auto;
+	background:#;
+	margin-top:1%;}
+	.pink{
+		width:100%;
+		height:300px;
+		background:white;
+	box-shadow: 0  50px -22px rgba(0, 0, 0, 0.25);
+	margin:4%;
+
+	}
+	.sk{
+	width:100%;
+	height:auto;
+	background:white;
+	box-shadow: 0  50px -22px rgba(0, 0, 0, 0.25);
+	border:none;
+
+}
+.checked{
+	color:red;
+	font-size:10px;
+	margin-top:2%;
+}
+p{
+	font-size:8px;
+}
+h1{
+	font-size:14px;
+}
+h3{
+	font-size:26px;
+	text-align:center;
+}
+.piche{
+	color:white;
+	font-size:10px;
+}
+.aage{
+	color:white;
+	font-size:10px;
+
+}
+.fa-file-pdf{
+	font-size:10px;
+	color:red;
+}
+h7{
+	font-size:12px;
+	color:white;
+	font-family: serif;
+}
+
+a{
+	font-size:10px;
+	margin:0px;
+}
+.mapp{
+	width:100%;
+	height:100px;
+	background:white;
+	border:none;
+	box-shadow: 0  50px -22px rgba(0, 0, 0, 0.25);
+	
+}
+ }
